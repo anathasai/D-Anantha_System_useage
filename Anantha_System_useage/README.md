@@ -13,8 +13,7 @@ This project is a Python-based system monitoring and analysis tool designed to t
 1. **Clone the Repository** 
  
    ```bash 
-   git clone https://github.com/nomadsdev/sys-monInsight.git 
-   cd sys-monInsight
+   git clone https://github.com/anathasai/D-Anantha_System_useage.git
    ``` 
  
 2. **Install Dependencies** 
